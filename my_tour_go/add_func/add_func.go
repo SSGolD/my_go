@@ -7,6 +7,11 @@ func add(x int, y int) int {
 	return x + y
 }
 
+func minus(x int, y int) int {
+	return x - y
+}
+
 func main() {
 	fmt.Println(add(42, 13))
+	fmt.Println(minus(43, 13))
 }
