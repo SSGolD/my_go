@@ -8,6 +8,7 @@ func main() {
 	pi := 3.14              // float64
 	isOnline := true        // bool
 	nums := []int{1, 2}     // slice of ints
+	
     fmt.Printf("v is of type %T\n", v)
 	fmt.Printf("name is of type %T\n", name)
 	fmt.Printf("pi is of type %T\n", pi)
