@@ -11,6 +11,7 @@ func main() {
 		[]string{"_", "_", "_"},
 		[]string{"_", "_", "_"},
 		[]string{"_", "_", "_"},
+		[]string{"_", "_", "_"},
 	}
 
 	// The players take turns.
