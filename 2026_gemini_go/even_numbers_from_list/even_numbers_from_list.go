@@ -6,7 +6,7 @@ func main() {
  
     numbers := []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
-    fmt.Println("Парні числа зі списку:")
+    fmt.Println("even numbers from list:")
 
 
     for _, value := range numbers {
